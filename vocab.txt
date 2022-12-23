@@ -1,0 +1,15 @@
+hola hello
+vocabulario vocabulary
+fruta fruit
+agua water
+jugo juice
+pizza pizza
+helado ice cream
+chica girl
+chico boy
+joven young
+viejo old
+madre mother
+padre father
+hermano brother
+hermana sister

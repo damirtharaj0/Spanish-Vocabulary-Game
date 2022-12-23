@@ -1,7 +1,7 @@
 /*
  Danny Amirtharaj
  5/2/2021
- Vocabulario2.java
+ Vocabulary.java
 */
 
 
@@ -46,7 +46,7 @@ import java.io.BufferedWriter;
 
 import java.util.Random;
 
-public class Vocabulario4
+public class Vocabulary
 {
 	public static void main(String[] args)
 	{
@@ -642,7 +642,7 @@ class GameScreen extends JPanel
 			}
 			if(difficulty == "hard")
 			{
-				timer.setDelay(0);
+				timer.setDelay(5);
 			}
 			
 			String command = evt.getActionCommand();
